@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body,html,h1{
+    margin: 0;
+}
+body{
+    font-family: 'lato', sans-serif
+}
+header {
+    background-color: #232b29;
+    color:white;
+    padding: 10px; 
+    text-align:center ;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 22px
+}
+
+canvas{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    color: blue;
+}
+
+
+   /* "command/" to add comment *  
+ command x cut the whole line/
